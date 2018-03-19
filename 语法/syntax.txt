@@ -1,0 +1,10 @@
+S AB
+S bC
+A ~
+A b
+B ~
+B aD
+C AD
+C b
+D aS
+D c
